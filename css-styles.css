@@ -1,0 +1,21 @@
+h1.intro {
+  font-family: Geneva;
+  color:brown;
+  font-weight: bold;
+}
+
+h2.intro {
+  font-family: cursive;
+  color: chartreuse;
+  font-size: 30px;
+}
+
+img.intro {
+  width: 80%;
+}
+
+p.intro {
+  font-size: 20px;
+  color: brown;
+  font-family: Geneva;
+}
